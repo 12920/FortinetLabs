@@ -1,5 +1,5 @@
 # FortinetLabs
-Lab Configuration Files of Cisco Certified Courses Steps to Deploy Topologies in EVE-NG
+Lab Configuration Files of Fortinet Certified Courses Steps to Deploy Topologies in EVE-NG
 
 Pre-requisites
 
