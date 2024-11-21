@@ -48,8 +48,7 @@ Enter the connection name and click on Save.
 You will see the blue connection between the nodes.
 
 Note: Similarly, you can connect and configure multiple nodes that are required for your topology. 19. Now, click on More actions from left side given menu. 20. Click on Start all nodes.
-
-Please visit to: **https://drive.google.com/drive/folders/1BD_vEb65Ndl5rPiLxDIfs79LKt3DzjRy?usp=sharing** to see the step by step guide to setup EVE NG environment for labs. 
+ 
 You will see the nodes in blue after they will become active.
 
 To start configuration on each node, go to the node and click on it.
@@ -64,3 +63,5 @@ Similarly, you can add shape using the Custom shapes.
 Similarly, you can find multiple topologies to develop the visualization according to your case study.
 
 Note: After doing all the configurations, export all the configuration by clicking export all CFGs from the left-hand menu in more actions option.
+
+Please visit to: **https://drive.google.com/drive/folders/1BD_vEb65Ndl5rPiLxDIfs79LKt3DzjRy?usp=sharing** to see the step by step guide to setup EVE NG environment for labs.
